@@ -16,5 +16,5 @@
     <project path="device/motorola/rhode" name="device_motorola_rhode" remote="me" revision="havoc" clone-depth="1" />
 
     <!-- https://github.com/Sm680-Development/vendor_motorola_rhode -->
-    <project path="vendor/motorola/devon" name="vendor_motorola_devon" remote="sm680-dev" revision="13" clone-depth="1" />
+    <project path="vendor/motorola/rhode" name="vendor_motorola_rhode" remote="sm680-dev" revision="13" clone-depth="1" />
 </manifest>
